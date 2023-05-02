@@ -20,6 +20,7 @@ public class BaseClassPractice {
 	public void bsconfig()
 	{
 		System.out.println("before suite");
+		System.out.println("changes");
 	}
 	
 	@AfterSuite
