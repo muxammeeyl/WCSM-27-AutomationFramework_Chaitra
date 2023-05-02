@@ -21,6 +21,7 @@ public class BaseClassPractice {
 	{
 		System.out.println("before suite");
 		System.out.println("changes");
+		System.out.println("abcd");
 	}
 	
 	@AfterSuite
